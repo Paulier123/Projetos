@@ -1,0 +1,18 @@
+body{
+    background: rgb(192, 73, 73);
+    font: normal 15pt Arial ;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+section{
+    background: rgb(75, 182, 75);
+    font: normal 12pt ;
+    border-radius: 10px 10px 10px;
+    box-shadow: 3px 3px 3px black;
+    width: 500px;
+    padding: 10px;
+    margin: auto
+    
+}

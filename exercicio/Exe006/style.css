@@ -1,0 +1,17 @@
+body{
+    background: rgb(101, 242, 247);
+}
+header{
+background: fixed;
+}
+section{
+    position: relative;
+    background: red;
+    margin: 10px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    padding: 10px 20px 30px;
+    text-align: center;
+    width: 300px;
+}
+ 
